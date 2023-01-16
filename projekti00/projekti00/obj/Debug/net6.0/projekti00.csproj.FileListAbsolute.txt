@@ -1,0 +1,15 @@
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.csproj.AssemblyReference.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.AssemblyInfoInputs.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.AssemblyInfo.cs
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.csproj.CoreCompileInputs.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\bin\Debug\net6.0\projekti00.exe
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\bin\Debug\net6.0\projekti00.deps.json
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\bin\Debug\net6.0\projekti00.runtimeconfig.json
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\bin\Debug\net6.0\projekti00.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\bin\Debug\net6.0\projekti00.pdb
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\refint\projekti00.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.pdb
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\projekti00.genruntimeconfig.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\projekti00\obj\Debug\net6.0\ref\projekti00.dll

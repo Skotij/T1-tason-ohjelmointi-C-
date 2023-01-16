@@ -1,0 +1,5 @@
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.csproj.AssemblyReference.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.AssemblyInfoInputs.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.AssemblyInfo.cs
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.csproj.CoreCompileInputs.cache

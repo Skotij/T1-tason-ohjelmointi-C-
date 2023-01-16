@@ -1,0 +1,5 @@
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Neliöjuuri 50\obj\Debug\net6.0\Neliöjuuri 50.csproj.AssemblyReference.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Neliöjuuri 50\obj\Debug\net6.0\Neliöjuuri 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Neliöjuuri 50\obj\Debug\net6.0\Neliöjuuri 50.AssemblyInfoInputs.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Neliöjuuri 50\obj\Debug\net6.0\Neliöjuuri 50.AssemblyInfo.cs
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Neliöjuuri 50\obj\Debug\net6.0\Neliöjuuri 50.csproj.CoreCompileInputs.cache
