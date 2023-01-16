@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Päivämaara ja aika/1.0.0": {
+        "runtime": {
+          "Päivämaara ja aika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Päivämaara ja aika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

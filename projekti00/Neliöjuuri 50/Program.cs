@@ -1,10 +1,13 @@
-﻿internal class Program
+﻿using System;
+
+namespace MunJuuri
 {
-    private static void Main(string[] args)
+    class Program
     {
-        int x = 50;
-        int = neliöjuuri;    
-        neliöjuuri = neliöjuuri x 
-        Console.WriteLine("Neliöjuuri =" + neliöjuuri);
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Math.Sqrt(50));
+        }
     }
 }
+

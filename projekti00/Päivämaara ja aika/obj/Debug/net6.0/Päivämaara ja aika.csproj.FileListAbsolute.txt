@@ -3,3 +3,13 @@ C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja a
 C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.AssemblyInfoInputs.cache
 C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.AssemblyInfo.cs
 C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.csproj.CoreCompileInputs.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\bin\Debug\net6.0\Päivämaara ja aika.exe
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\bin\Debug\net6.0\Päivämaara ja aika.deps.json
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\bin\Debug\net6.0\Päivämaara ja aika.runtimeconfig.json
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\bin\Debug\net6.0\Päivämaara ja aika.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\bin\Debug\net6.0\Päivämaara ja aika.pdb
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\refint\Päivämaara ja aika.dll
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.pdb
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\Päivämaara ja aika.genruntimeconfig.cache
+C:\Users\sonja\source\repos\T1-tason-ohjelmointi-C-\projekti00\Päivämaara ja aika\obj\Debug\net6.0\ref\Päivämaara ja aika.dll

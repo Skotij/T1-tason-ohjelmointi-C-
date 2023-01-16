@@ -1,9 +1,13 @@
-﻿
-internal class Program
+﻿using System;
 
+   namespace MunAikaPäivä
 {
-    private static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("/n Nyt on" + DateTime.Now.ToString);
+        static void Main(string[] args) 
+        {
+            Console.WriteLine(AikaPäivä);  
+        }
     }
 }
+    

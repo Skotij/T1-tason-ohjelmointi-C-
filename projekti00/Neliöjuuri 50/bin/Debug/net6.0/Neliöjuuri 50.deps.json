@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Neliöjuuri 50/1.0.0": {
+        "runtime": {
+          "Neliöjuuri 50.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neliöjuuri 50/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
